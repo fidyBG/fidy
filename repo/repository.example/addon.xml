@@ -2,19 +2,19 @@
 <addon id="fidy.repository" name="fidy Repository" version="1.00" provider-name="fidyBG">
     <extension point="xbmc.addon.repository" name="fidy Repository">
         <dir>
-            <info compressed="false">https://raw.githubusercontent.com/fidyBG/fidy Repository/DEFAULT_BRANCH_NAME_HERE/repo/zips/addons.xml</info>
-            <checksum>https://raw.githubusercontent.com/fidyBG/fidy Repository/DEFAULT_BRANCH_NAME_HERE/repo/zips/addons.xml.md5</checksum>
-            <datadir zip="true">https://raw.githubusercontent.com/fidyBG/fidy Repository/DEFAULT_BRANCH_NAME_HERE/repo/zips/</datadir>
+            <info compressed="false">https://raw.githubusercontent.com/fidyBG/fidy Repository/master/repo/zips/addons.xml</info>
+            <checksum>https://raw.githubusercontent.com/fidyBG/fidy Repository/master/repo/zips/addons.xml.md5</checksum>
+            <datadir zip="true">https://raw.githubusercontent.com/fidyBG/fidy Repository/master/repo/zips/</datadir>
         </dir>
     </extension>
     <extension point="xbmc.addon.metadata">
-        <summary>fidy_Repository</summary>
-        <description>DESCRIPTION OF YOUR REPO HERE</description>
+        <summary>fidy Repository</summary>
+        <description>Неофициално хранилище за модифицирани добавки.</description>
         <disclaimer></disclaimer>
         <platform>all</platform>
         <assets>
-            <icon>icon.png</icon>
-            <fanart>fanart.jpg</fanart>
+            <icon>fidy.png</icon>
+            <fanart>background.jpg</fanart>
         </assets>
     </extension>
 </addon>
