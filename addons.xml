@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="repository.fidy" name="fidy Repository" version="1.45" provider-name="fidyBG">
+<addon id="repository.fidy" name="fidy Repository" version="1.61" provider-name="fidyBG">
     <extension point="xbmc.addon.repository" name="fidy Repository">
         <dir>
 			<info compressed="false">https://github.com/fidyBG/fidy/tree/master/addons/addons.xml</info>
